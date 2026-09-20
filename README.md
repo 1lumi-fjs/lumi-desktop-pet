@@ -1,1 +1,0 @@
-# lumi-desktop-pet
